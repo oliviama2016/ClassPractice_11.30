@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "349123059279",
+    "firebase_url": "https://classproject-59002.firebaseio.com",
+    "project_id": "classproject-59002",
+    "storage_bucket": "classproject-59002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349123059279:android:0ba7cdc042e65938",
+        "android_client_info": {
+          "package_name": "com.app.oliviama.classpractice_1130"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349123059279-t8frgorp9b908oa30pogd33io7il7k0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbIcwiMuBYfmd3wX4MBdJFfoGr_DDtaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
